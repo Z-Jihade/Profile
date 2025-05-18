@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZIDANI Jihade</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer from Morocco 🇲🇦</h3>
+<h3 align="center">A passionate Full-Stack Software Engineer</h3>
 
 - 🔭 I’m currently working at **Amazon Web Services** as a Software Engineer (Java / Angular)
 - 🌱 I’m currently deepening my skills in **AWS, Kubernetes, Devops and system performance optimization**
