@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **Amazon Web Services** as a Software Engineer (Java / Angular)
 - 🌱 I’m currently deepening my skills in **AWS, Kubernetes, Devops and system performance optimization**
 - 💬 I am excited to learn about  **Java, Spring Boot, Angular, Microservices, Docker, PostgreSQL**
-- 📫 How to reach me: **zidani.jihade@gmail.com** | [LinkedIn](https://linkedin.com/in/ZIDANIjihade)
+- 📫 How to reach me: **zidani.jihade@gmail.com** | [LinkedIn](linkedin.com/in/jihade-zidani-a75322151)
 
 ---
 
