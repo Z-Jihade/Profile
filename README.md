@@ -25,9 +25,6 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📈 GitHub Stats
-
-![Jihade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-Jihade&show_icons=true&theme=github_dark)
 
 ---
 
