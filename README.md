@@ -30,5 +30,5 @@ Here are some of the technologies I work with:
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/ZIDANIjihade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](linkedin.com/in/jihade-zidani-a75322151)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?logo=github&style=flat&logoColor=white)](https://github.com/Z-Jihade)
