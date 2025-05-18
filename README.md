@@ -6,7 +6,6 @@
 - 💬 I am excited to learn about  **Java, Spring Boot, Angular, Microservices, Docker, PostgreSQL**
 - 📫 How to reach me: **zidani.jihade@gmail.com** | [LinkedIn](linkedin.com/in/jihade-zidani-a75322151)
 
----
 
 ### 🛠️ Languages and Tools
 
